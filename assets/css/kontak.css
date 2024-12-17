@@ -1,0 +1,9 @@
+footer form {
+  box-shadow: none;
+}
+header {
+    height: 90vh;
+}
+header .jumbotron{
+    height: 80vh;
+}
